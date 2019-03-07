@@ -1,1 +1,0 @@
-# genesis-simple-page-sections
